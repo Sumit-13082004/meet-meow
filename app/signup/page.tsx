@@ -22,7 +22,7 @@ export default function SignupPage() {
                 initial={{ opacity: 0, y: 40 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6 }}
-                className="flex w-220 h-175 max-w-full bg-white rounded-2xl shadow-xl overflow-hidden"
+                className="flex w-220 h-150 max-w-full bg-white rounded-2xl shadow-xl overflow-hidden"
             >
 
                 {/* LEFT SIDE - FORM */}
